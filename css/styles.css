@@ -10,3 +10,10 @@ background-color: rgb(255, 253, 107);
 font-family: Arial, sans-serif;
 }
 h2{color: blue;}
+#PieDePagina{
+    box-shadow: 10px 4px 8px rgb(255, 0, 0);
+    padding: 3px;
+    margin: 10px;
+    background-color: rgb(188, 227, 248);
+    border-radius: 8px;
+}
