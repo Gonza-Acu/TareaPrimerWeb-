@@ -1,3 +1,12 @@
 h1 {
-border: solid 4px black;
+    background-color: rgb(246, 246, 10);
+    border:solid 5px rgb(14, 104, 248) ;
+    padding: 15px;
+    margin: 1px;
+    text-align: center;
 }
+body{
+background-color: rgb(255, 253, 107);
+font-family: Arial, sans-serif;
+}
+h2{color: blue;}
